@@ -165,14 +165,13 @@ mini-project-2/
 
 ## 👥 Team Member Contributions
 
-// to be edited in the end
 
 ### Specific Contributions:
-- **Data Exploration:** Correlation analysis, class distribution assessment, feature distributions
-- **Model Development:** Implementation of 3 baseline models, hyperparameter optimization
-- **Imbalanced Data:** Class weighting and SMOTE resampling implementation
-- **Evaluation:** Comprehensive metrics calculation, confusion matrix analysis
-- **Visualization:** Bar charts, scatter plots, confusion matrices, ROC curves
+- **Data Exploration:** Sepehr Mansouri
+- **Model Development:** Sepehr Mansouri & Ledja Halltari
+- **Imbalanced Data:** Sepehr Mansouri & Ledja Halltari
+- **Evaluation:** Sepehr Mansouri & Ledja Halltari
+- **Visualization:** Ledja Halltari
 
 
 ## 📚 References
