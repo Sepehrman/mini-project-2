@@ -4,7 +4,7 @@
 
 Diabetes is a chronic disease affecting millions globally. Early detection is crucial for effective management and prevention of complications. This project builds and compares machine learning classification models to predict the likelihood of diabetes based on medical diagnostic measurements.
 
-** Collaborators: ** Sepehr Mansouri & Ledja Halltari
+**Collaborators:** Sepehr Mansouri & Ledja Halltari
 
 **Key Objectives:**
 - Develop accurate predictive models for diabetes diagnosis
