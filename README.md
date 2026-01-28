@@ -4,6 +4,8 @@
 
 Diabetes is a chronic disease affecting millions globally. Early detection is crucial for effective management and prevention of complications. This project builds and compares machine learning classification models to predict the likelihood of diabetes based on medical diagnostic measurements.
 
+**Collaborators:** Sepehr Mansouri & Ledja Halltari
+
 **Key Objectives:**
 - Develop accurate predictive models for diabetes diagnosis
 - Compare multiple classification algorithms (Logistic Regression, KNN, Random Forest)
@@ -165,14 +167,12 @@ mini-project-2/
 
 ## 👥 Team Member Contributions
 
-// to be edited in the end
-
 ### Specific Contributions:
-- **Data Exploration:** Correlation analysis, class distribution assessment, feature distributions
-- **Model Development:** Implementation of 3 baseline models, hyperparameter optimization
-- **Imbalanced Data:** Class weighting and SMOTE resampling implementation
-- **Evaluation:** Comprehensive metrics calculation, confusion matrix analysis
-- **Visualization:** Bar charts, scatter plots, confusion matrices, ROC curves
+- **Data Exploration:** Sepehr Mansouri
+- **Model Development:** Sepehr Mansouri & Ledja Halltari
+- **Imbalanced Data:** Sepehr Mansouri & Ledja Halltari
+- **Evaluation:** Sepehr Mansouri & Ledja Halltari
+- **Visualization:** Ledja Halltari
 
 
 ## 📚 References
